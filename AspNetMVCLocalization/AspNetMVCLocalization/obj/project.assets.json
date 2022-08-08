@@ -906,11 +906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\umit.akinci\\source\\repos\\AspNetLocalization\\AspNetLocalization\\AspNetMVCLocalization.csproj",
+      "projectUniqueName": "D:\\private-dev\\AspNetMVCLocalization\\AspNetMVCLocalization\\AspNetMVCLocalization\\AspNetMVCLocalization.csproj",
       "projectName": "AspNetMVCLocalization",
-      "projectPath": "C:\\Users\\umit.akinci\\source\\repos\\AspNetLocalization\\AspNetLocalization\\AspNetMVCLocalization.csproj",
+      "projectPath": "D:\\private-dev\\AspNetMVCLocalization\\AspNetMVCLocalization\\AspNetMVCLocalization\\AspNetMVCLocalization.csproj",
       "packagesPath": "C:\\Users\\umit.akinci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\umit.akinci\\source\\repos\\AspNetLocalization\\AspNetLocalization\\obj\\",
+      "outputPath": "D:\\private-dev\\AspNetMVCLocalization\\AspNetMVCLocalization\\AspNetMVCLocalization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\umit.akinci\\AppData\\Roaming\\NuGet\\NuGet.Config",

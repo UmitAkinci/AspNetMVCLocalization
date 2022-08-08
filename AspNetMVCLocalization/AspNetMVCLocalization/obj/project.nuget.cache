@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ixRuBEE58MfbesbD+Ii8M/o9Mj43uJ1BSMaLx7Jq0OIHfRDx8JrTTboxJiUxNnnScXNipTFqEVa4u1Rbgu8QMw==",
+  "dgSpecHash": "3i3q5Ju2STmpxbyEReh2UxJRMcaCJz5U7c2kLkCg9QGtzfIkg3RpDgUxhFh9DNz3LeZduoCDhOxa/8EC9MTVkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\umit.akinci\\source\\repos\\AspNetLocalization\\AspNetLocalization\\AspNetMVCLocalization.csproj",
+  "projectFilePath": "D:\\private-dev\\AspNetMVCLocalization\\AspNetMVCLocalization\\AspNetMVCLocalization\\AspNetMVCLocalization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umit.akinci\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.7\\microsoft.aspnetcore.mvc.razor.extensions.6.0.7.nupkg.sha512",
     "C:\\Users\\umit.akinci\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.7\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.7.nupkg.sha512",
